@@ -1,0 +1,21 @@
+{
+  "schema_version": "1.0.0",
+  "asset_size_bytes": 31212349,
+  "asset_count": 8,
+  "file_count": 1,
+  "pages": [
+    {
+      "url": "_v1/assets-00000.json",
+      "hash": "SHA256:eac352c0bb7633e764481e79225c8d0cdeff71987a6ee5144f75e778eb5095e6"
+    }
+  ],
+  "catalogs": [
+    {
+      "path": "onlineKKassets",
+      "uuids": [
+        "6c3833c5-ed54-42bf-ab12-65599e98cc21"
+      ],
+      "simple_name": "onlineKKassets"
+    }
+  ]
+}

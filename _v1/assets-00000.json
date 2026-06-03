@@ -1,0 +1,246 @@
+{
+  "asset_count": 8,
+  "file_count": 1,
+  "assets": [
+    {
+      "name": "boss_laptop",
+      "id_type": "OBJECT",
+      "files": [
+        "KK_assets.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "KK_assets_thumbnails/Object/boss_laptop.webp",
+        "hash": "SHA256:f4dc4c719eca6f137b3bec4568c9d95243625442c079e75ce1dc29a6247f3f29"
+      },
+      "meta": {
+        "catalog_id": "6c3833c5-ed54-42bf-ab12-65599e98cc21",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.3509369492530823,
+              0.31238850951194763,
+              0.2443382292985916
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "cooler_water",
+      "id_type": "OBJECT",
+      "files": [
+        "KK_assets.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "KK_assets_thumbnails/Object/cooler_water.webp",
+        "hash": "SHA256:2ccd7b705f416a82e1d0b07f2309b69f596516e17e30584cff2cd18e910edd5c"
+      },
+      "meta": {
+        "catalog_id": "6c3833c5-ed54-42bf-ab12-65599e98cc21",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.42946717143058777,
+              0.42946717143058777,
+              1.4066767692565918
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "mug4boss",
+      "id_type": "OBJECT",
+      "files": [
+        "KK_assets.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "KK_assets_thumbnails/Object/mug4boss.webp",
+        "hash": "SHA256:61dadb4814ff8c921a918c6448b832549fb0933ffd95c6e298d90cff6004efc2"
+      },
+      "meta": {
+        "catalog_id": "6c3833c5-ed54-42bf-ab12-65599e98cc21",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.14141903817653656,
+              0.0995580181479454,
+              0.10939210653305054
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "mug4office_white.002",
+      "id_type": "OBJECT",
+      "files": [
+        "KK_assets.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "KK_assets_thumbnails/Object/mug4office_white002.webp",
+        "hash": "SHA256:be75bce6245dd4e1556d1643c005ace4e8ca507ad95384761df73e9b16e28a86"
+      },
+      "meta": {
+        "catalog_id": "6c3833c5-ed54-42bf-ab12-65599e98cc21",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.16290389001369476,
+              0.11468320339918137,
+              0.12601131200790405
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "plainbox_crinkled",
+      "id_type": "OBJECT",
+      "files": [
+        "KK_assets.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "KK_assets_thumbnails/Object/plainbox_crinkled.webp",
+        "hash": "SHA256:7130ee01c4b12a24174133b3b02ed65578c1dd93c9ed55ee0b1f0bea6278992e"
+      },
+      "meta": {
+        "catalog_id": "6c3833c5-ed54-42bf-ab12-65599e98cc21",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.3610990345478058,
+              0.5210269093513489,
+              0.30466365814208984
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "pointer_marketolog",
+      "id_type": "OBJECT",
+      "files": [
+        "KK_assets.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "KK_assets_thumbnails/Object/pointer_marketolog.webp",
+        "hash": "SHA256:ca225ad9480423408662498e5f4076cf75c4bda6d7802baea5e73b6e3749a6bf"
+      },
+      "meta": {
+        "catalog_id": "6c3833c5-ed54-42bf-ab12-65599e98cc21",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.036271557211875916,
+              0.027080174535512924,
+              0.27019625902175903
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "pot_tree",
+      "id_type": "OBJECT",
+      "files": [
+        "KK_assets.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "KK_assets_thumbnails/Object/pot_tree.webp",
+        "hash": "SHA256:aed30a91cec5feef6f46c41fbce35aed79a96423dc4f14bea34f559424a99620"
+      },
+      "meta": {
+        "catalog_id": "6c3833c5-ed54-42bf-ab12-65599e98cc21",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.916872262954712,
+              1.6743324995040894,
+              1.9840248823165894
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "printer_big",
+      "id_type": "OBJECT",
+      "files": [
+        "KK_assets.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "KK_assets_thumbnails/Object/printer_big.webp",
+        "hash": "SHA256:53b72422709cc72bc3c5ee42ec8d7e2ab4e44d57fce8ed49d4cf243aff20411d"
+      },
+      "meta": {
+        "catalog_id": "6c3833c5-ed54-42bf-ab12-65599e98cc21",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.9199507236480713,
+              0.7172272205352783,
+              1.2194849252700806
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    }
+  ],
+  "files": [
+    {
+      "path": "KK_assets.blend",
+      "size_in_bytes": 31212349,
+      "hash": "SHA256:d6e1baea432a979874cf1d0eecde32ab854d8c3ec23d1ec90502883276a41121",
+      "blender_version": "5.2.41"
+    }
+  ]
+}
